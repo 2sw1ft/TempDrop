@@ -1,6 +1,6 @@
 {
-	"name": "Health Regeneration",
-	"description": "A mod for The Long Dark that lets you change health recovery. You can configure mod in HealthRegeneration.xml.",
+	"name": "Temperature  Drop",
+	"description": "Let you change the temperature of the weather.",
 	"url": "https://github.com/2sw1ft/HealthRegeneration",
 	"releases": [
 	{
